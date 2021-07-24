@@ -1,7 +1,7 @@
 ## Form-API
 
 <p align="center">
-    ![2021-07-24 01-31-09](https://user-images.githubusercontent.com/57048555/126857417-293f51e1-ab0c-4672-97da-365b748358df.gif)
+    <img src = "![2021-07-24 01-31-09](https://user-images.githubusercontent.com/57048555/126857417-293f51e1-ab0c-4672-97da-365b748358df.gif)">
 </p>
 
 
